@@ -4,7 +4,7 @@
 $telegram_bot_token = "8735358192:AAGU7LHN7oWFu4WWFchdq851uflp-f4dkGI";
 $lgpay_app_id = "YD5038";
 $lgpay_key = "WdX2XVTDnV8dmpc2GMl4EaDW9lMH2DTT";
-$notify_url = "https://https://zynox-paybot.wasmer.app/callback.php";
+$notify_url = "https://zynox-paybot.wasmer.app/callback.php";
 
 // ================= DEBUG LOG =================
 file_put_contents("log.txt", file_get_contents("php://input") . PHP_EOL, FILE_APPEND);
